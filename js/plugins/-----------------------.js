@@ -12,7 +12,8 @@
  * ----------------------------------------------------------------------
  * author: Reisen (Mauricio Pastana)
  * IgnisSkipTitle
- * 
+ * IgnisTouchPictures
+ * ----------------------------------------------------------------------
  * author: Q－S.T.
  * FullKeyboard2
  * 
@@ -21,10 +22,9 @@
  * 
  * author: Chaucer
  * Mimosa_MouseCursorPlus
- * ----------------------------------------------------------------------
+ * 
  * author: Yoji Ojima
  * TextPicture
- * ButtonPicture
  * ----------------------------------------------------------------------
  * author: VisuStella
  * VisuMZ_0_CoreEngine

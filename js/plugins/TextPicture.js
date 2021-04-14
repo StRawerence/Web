@@ -4,7 +4,7 @@
 
 /*:
  * @target MZ
- * @plugindesc Displays text as a picture.
+ * @plugindesc 文字圖片化 Displays text as a picture.
  * @author Yoji Ojima
  *
  * @help TextPicture.js
@@ -16,15 +16,15 @@
  *   2. Execute "Show Picture" without specifying an image.
  *
  * @command set
- * @text Set Text Picture
- * @desc Sets text to display as a picture.
- *       After this, execute "Show Picture" without specifying an image.
+ * @text 設置文字圖片
+ * @desc 設置文本以圖片形式顯示。
+ * 此後，在不指定圖像的情況下執行"顯示圖片"。
  *
  * @arg text
  * @type multiline_string
- * @text Text
- * @desc Text to display as a picture.
- *       Control characters are allowed.
+ * @text 文字
+ * @desc 文字顯示為圖片。
+ * 允許使用控製字符。
  */
 
 /*:ja

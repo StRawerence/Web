@@ -1,8 +1,16 @@
-,zh_TW,zh_CN,en_US,jp_JP
-navigation_1,首頁,首页,Home,家
-navigation_2,關於,关于,on,オン
-navigation_3,貼圖,贴图,Maps,地図
-navigation_4,畫廊,画廊,gallery,画廊
-navigation_5,漫畫,漫画,Cartoon,漫画
-navigation_6,遊戲,游戏,game,ゲーム
-navigation_7,實況,实况,Live,住む
+,zh_TW,zh_CN,jp_JP,en_US,es_ES
+global_1,選擇語言,选择语言,言語を選択,Choose a language,Elegir un idioma
+language_1,繁體中文,繁体中文,繁体字中国語,traditional Chinese,chino tradicional
+language_2,簡體中文,简体中文,簡体字中国語,Simplified Chinese,chino simplificado
+language_3,英文,英文,英語,English,inglés
+language_4,日文,日文,日本語,Japanese,japonés
+language_5,西班牙文,西班牙文,スペイン語,Spanish language,lengua española
+,,,,,
+navigation_1,首頁,首页,家,Home,Casa
+navigation_2,關於,关于,オン,on,en
+navigation_3,貼圖,贴图,地図,Maps,mapas
+navigation_4,畫廊,画廊,画廊,gallery,galería
+navigation_5,漫畫,漫画,漫画,Cartoon,Dibujos animados
+navigation_6,遊戲,游戏,ゲーム,game,juego
+navigation_7,實況,实况,住む,Live,Vivir
+navigation_8,教學,教学,教育,teaching,enseñando
