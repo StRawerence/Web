@@ -4,8 +4,8 @@
     "chromium-args": "--force-color-profile=srgb",
     "window": {
         "title": "WebMaker",
-        "width": 1600,
-        "height": 900,
+        "width": 1680,
+        "height": 912,
         "position": "center",
         "icon": "icon/icon.png"
     }

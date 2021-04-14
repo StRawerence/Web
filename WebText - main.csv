@@ -1,0 +1,94 @@
+,zh_TW,zh_CN,jp_JP,en_US,es_ES
+global_1,選擇語言,选择语言,言語を選択,Choose a language,Elegir un idioma
+language_1,繁體中文,繁体中文,繁体字中国語,traditional Chinese,chino tradicional
+language_2,簡體中文,简体中文,簡体字中国語,Simplified Chinese,chino simplificado
+language_3,英文,英文,英語,English,inglés
+language_4,日文,日文,日本語,Japanese,japonés
+language_5,西班牙文,西班牙文,スペイン語,Spanish language,lengua española
+,,,,,
+navigation_1,首頁,首页,家,Home,Casa
+navigation_2,關於,关于,オン,on,en
+navigation_3,貼圖,贴图,地図,Maps,mapas
+navigation_4,畫廊,画廊,画廊,gallery,galería
+navigation_5,漫畫,漫画,漫画,Cartoon,Dibujos animados
+navigation_6,遊戲,游戏,ゲーム,game,juego
+navigation_7,實況,实况,住む,Live,Vivir
+navigation_8,教學,教学,教育,teaching,enseñando
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+hometext_1,這裡是首頁，會在這裡顯示一些相關內容。,这里是首页，会在这里显示一些相关内容。,ここではホームページで、一部のコンテンツを表示するためにここになります。,"Here is the home page, will be here to display some content.","Aquí está la página de inicio, estará aquí para mostrar algo de contenido."
+hometext_2,"例如：
+2021/04/14
+網站雛形設計開始","例如：
+2021/04/14
+网站雏形设计开始","例えば：
+2021年4月14日
+ウェブサイトのプロトタイプ設計を開始します","E.g:
+2021/04/14
+Website prototype design begin","P.ej:
+04/14/2021
+diseño de prototipos página web comience"
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+abouttext_1,"這裡是關於該網站與作者的介紹內容，
+目前正在測試以RPG Maker進行網頁製作。
+
+此列下方可以再新增各種點擊式按鈕，
+包含聯絡信箱、影片頻道等外部連結。","这里是关于该网站与作者的介绍内容，
+目前正在测试以RPG Maker进行网页制作。
+
+此列下方可以再新增各种点击式按钮，
+包含联络信箱、影片频道等外部连结。","ここでは、著者とウェブサイトの内容について紹介があり、
+現在、ウェブ制作のためのRPGメーカーでテストされています。
+
+この欄の下に、その後のボタンをクリックし、さまざまなを追加することができ、
+その上、外部のメールで連絡リンク、映画チャンネルとが含まれています。","Here is the introduction about the content of the website with the author,
+Is currently being tested with RPG Maker for web production.
+
+Below this column can then add a variety of clicking buttons,
+Contains external links contacted by mail, movie channels and so on.","Aquí está la introducción sobre el contenido de la página web con el autor,
+Actualmente se está probando con RPG Maker para producción web.
+
+Por debajo de esta columna a continuación, puede agregar una variedad de botones de clic,
+Contiene enlaces externos contactados por correo, canales de películas y así sucesivamente."
+,,,,,
+,,,,,
+comictext_1_1,"網路暱稱：
+喵喵醬","网路昵称：
+喵喵酱","ウェブニックネーム：
+ニャーニャー醤油","Web nickname:
+Meow meow sauce","sobrenombre web:
+Miau salsa"
+comictext_1_2,喵喵醬跟大家道早安喔٩(◦`꒳´◦)۶,喵喵酱跟大家道早安喔٩(◦`꒳´◦)۶,みんな良い朝ああ9（◦`꒳'◦）とのニャーニャー醤油6,Meow meow sauce with everyone good morning Oh 9 (◦`꒳'◦) 6,Miau salsa con todos los buenos días Oh 9 (◦`꒳'◦) 6
+comictext_2_1,"網路暱稱：
+陽光大姐","网路昵称：
+阳光大姐","ウェブニックネーム：
+姉妹サンシャイン","Web nickname:
+Sister Sunshine","sobrenombre web:
+hermana Sol"
+comictext_2_2,"一早就發廢文，喵喵不乖！
+打｡(ﾟДﾟ)つ#)Д´)ﾉ","一早就发废文，喵喵不乖！
+打｡(ﾟДﾟ)つ#)Д´)ﾉ","長い髪の古紙、ニャーニャーいたずら！
+再生します。（゚Д゚）ZU＃）Д '）テクノ","A long hair waste paper, meow meow naughty!
+Play. (゚ Д ゚) zu #) Д') Techno","Un papel usado pelo largo, miau, travieso!
+Play. (゚ Д ゚) zu #) Д ') Tecno"
+comictext_3_1,"姐姐壞壞！欺負人""o(>Д <""o","姐姐坏坏！欺负人""o(>Д <""o","姉妹意地の悪いです！いじめの ""o（>Д<"" O","Sister nasty! Bullying ""o (> Д <"" o","Hermana desagradable! Intimidación ""o (> Д <"" o"
+comictext_3_2,"好啦，喵喵最乖了｡
+･ﾟ･(ﾉД`)ヽ(ﾟДﾟ )摸摸頭","好啦，喵喵最乖了｡
+･ﾟ･(ﾉД`)ヽ(ﾟДﾟ )摸摸头","まあ、賢いニャーニャー。
+・゚・（テクノД`）ヽ（゚Д゚）モモの塔","Well, meow meow the cleverest.
+· ゚ · (Techno Д`) ヽ (゚ Д ゚) Momo Tou","Bueno, miau, el más inteligente.
+· ゚ · (Techno Д`) ヽ (゚ Д ゚) Momo Tou"

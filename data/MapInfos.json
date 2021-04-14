@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1638,"scrollY":769.5}
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1626,"scrollY":680},
+{"id":2,"expanded":false,"name":"可見範圍 (35*19)","order":2,"parentId":0,"scrollX":1216.5,"scrollY":679.5}
 ]
