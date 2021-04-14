@@ -29,6 +29,7 @@
  * author: VisuStella
  * VisuMZ_0_CoreEngine
  * VisuMZ_1_MessageCore
+ * VisuMZ_1_OptionsCore
  * ----------------------------------------------------------------------
  * author: Mirai
  * NekoGakuen_FontManager
